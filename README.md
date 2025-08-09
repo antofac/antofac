@@ -43,7 +43,7 @@ Highlights include:
 - **English** – C2  
 - **German** – B1
   
-## Let’s Connect
+## Let’s Connect!
 
 - 📧 [facini.antonella@gmail.com](mailto:facini.antonella@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonella-facini-30b479262)  
