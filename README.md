@@ -26,16 +26,6 @@ Highlights include:
 - 📈 **Cryptocurrency Price Prediction (LSTM)** – Forecasting price movement using sequential deep learning models  
 - ⚖️ **Drug Decriminalization in Portugal** – Quantitative policy evaluation using causal inference methods
 
-## Skills & Tools
-
-- **Languages**  Python • R • SQL  
-
-- **ML & AI**  scikit-learn • TensorFlow • Keras • CNNs • RNNs • LSTMs • Causal Inference  
-
-- **Data & BI**  pandas • NumPy • Matplotlib • ggplot2 • dplyr • Qlik •   
-
-- **Other**  Statistical modeling • Time series analysis • Geospatial analysis
-
 ## Language Skills
 
 - **Italian** – Native  
