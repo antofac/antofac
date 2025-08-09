@@ -1,4 +1,4 @@
-## Hi there, I'm @antofac 👋
+## Hi there, I'm @antofac
 
 Welcome to my GitHub! Here’s a little about me: 
 
