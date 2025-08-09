@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there, I'm @antofac 👋
 
-<!--
-**antonellafacini/antonellafacini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here’s a little about me: 
 
-Here are some ideas to get you started:
+- 🎓 **Master's in Data Analytics**  
+Currently studying in Venice, with a strong focus on applied machine learning, deep learning, and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 **Background in Finance & Financial Econometrics**  
+BSc in Finance from the University of Trieste, with a strong foundation in quantitative methods and statistical modeling.
+
+- 🧠 **Research & Project Interests**  
+Deep learning (CNNs, RNNs), AI-focused applications, advanced analytics, optimization, time series forecasting, and causal inference.
+
+- 💻 **Technical Proficiency**  
+Python & R for data wrangling, modeling, visualization, and deployment. Qlik & Power BI for interactive data storytelling.
+
+
+## Featured Projects
+
+This repository is my **portfolio**, featuring a selection of applied analytics and machine learning work.
+
+Highlights include:
+- 🌱 **Plant Disease Detection (CNNs)** – Image classification for early crop disease identification  
+- 🚖 **Taxi Driver Profit Estimation (Hackathon)** – Predicting net operating profit based on trip, cost, and route data  
+- 🌍 **Air Pollution Analysis in Europe** – Geospatial & temporal trends of PM2.5, NO₂, and more  
+- 📈 **Cryptocurrency Price Prediction (LSTM)** – Forecasting price movement using sequential deep learning models  
+- ⚖️ **Drug Decriminalization in Portugal** – Quantitative policy evaluation using causal inference methods
+
+## Skills & Tools
+
+- **Languages**  Python • R • SQL  
+
+- **ML & AI**  scikit-learn • TensorFlow • Keras • CNNs • RNNs • LSTMs • Causal Inference  
+
+- **Data & BI**  pandas • NumPy • Matplotlib • ggplot2 • dplyr • Qlik •   
+
+- **Other**  Statistical modeling • Time series analysis • Geospatial analysis
+
+## Language Skills
+
+- **Italian** – Native  
+- **Spanish** – Native  
+- **English** – C2  
+- **German** – B1
+  
+## Let’s Connect
+
+- 📧 [facini.antonella@gmail.com](mailto:facini.antonella@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonella-facini-30b479262)  
