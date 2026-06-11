@@ -3,7 +3,7 @@
 Welcome to my GitHub! Here’s a little about me: 
 
 - 🎓 **Master's in Data Analytics**  
-Currently studying in Venice, with a strong focus on applied machine learning, deep learning, and business intelligence.
+Recently finished my studies in Venice, with a strong focus on applied machine learning, deep learning, and business intelligence.
 
 - 📈 **Background in Finance & Financial Econometrics**  
 BSc in Finance from the University of Trieste, with a strong foundation in quantitative methods and statistical modeling.
