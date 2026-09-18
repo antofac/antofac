@@ -1,39 +1,31 @@
-## Hi there, I'm @antofac!
+Hi there, I'm @antofac!
 
-Welcome to my GitHub! Here’s a little about me: 
+## About Me
 
-- 🎓 **Master's in Data Analytics**  
-Recently finished my studies in Venice, with a strong focus on applied machine learning, deep learning, and business intelligence.
+🎓 **Master's in Data Analytics for Business & Society** — Ca' Foscari University, Venice
+Applied machine learning, deep learning, causal inference, and business intelligence.
 
-- 📈 **Background in Finance & Financial Econometrics**  
-BSc in Finance from the University of Trieste, with a strong foundation in quantitative methods and statistical modeling.
+📈 **BSc in International Economics & Financial Markets** — University of Trieste
+Quantitative methods, financial econometrics, and statistical modeling.
 
-- 🧠 **Research & Project Interests**  
-Deep learning (CNNs, RNNs), AI-focused applications, advanced analytics, optimization, time series forecasting, and causal inference.
+🧠 **Interests**: deep learning (CNNs, LSTMs), NLP, causal inference, mathematical optimization, and forecasting.
 
-- 💻 **Technical Proficiency**  
-Python & R for data wrangling, modeling, visualization, and deployment. Qlik & Power BI for interactive data storytelling.
-
+💻 **Toolkit**: Python & R for modeling and analysis; SQL for querying; Power BI, Qlik, and Tableau for visualization.
 
 ## Featured Projects
 
-This repository is my **portfolio**, featuring a selection of applied analytics and machine learning work.
+- 📰 **[YouTube Clickbait & Emotional Framing](link)** — NLP and network analysis of 450K+ comments across mainstream and alternative news channels
+- 💼 **[Budgeted Portfolio Optimization (MILP)](link)** — Mixed-integer optimization for portfolio selection under risk, cardinality, and ESG constraints, solved with Gurobi
+- 🌱 **[Plant Disease Classification (CNNs)](link)** — Custom CNN vs. ResNet50 transfer learning, with Grad-CAM interpretability
+- ⚖️ **[Drug Decriminalization in Portugal](link)** — Difference-in-Differences policy evaluation using Spain as control
+- 📈 **[Cryptocurrency Prediction & Portfolio Allocation](link)** — Random Forest and LSTM for price movement, with an honest look at their limits
 
-Highlights include:
-- 🌱 **Plant Disease Detection (CNNs)** – Image classification for early crop disease identification  
-- 🚖 **Taxi Driver Profit Estimation (Hackathon)** – Predicting net operating profit based on trip, cost, and route data  
-- 🌍 **Air Pollution Analysis in Europe** – Geospatial & temporal trends of PM2.5, NO₂, and more  
-- 📈 **Cryptocurrency Price Prediction (LSTM)** – Forecasting price movement using sequential deep learning models  
-- ⚖️ **Drug Decriminalization in Portugal** – Quantitative policy evaluation using causal inference methods
+Each project includes a README with methodology, results, and, where relevant, the limitations I ran into along the way.
 
-## Language Skills
+## Languages
+Italian & Spanish (native), English (C1), German (B1)
 
-- **Italian** – Native  
-- **Spanish** – Native  
-- **English** – C2  
-- **German** – B1
-  
-## Let’s Connect!
+## Let's Connect
 
 - 📧 [facini.antonella@gmail.com](mailto:facini.antonella@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonella-facini-30b479262)  
