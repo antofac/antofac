@@ -3,9 +3,11 @@ Hi there, I'm @antofac!
 ## About Me
 
 🎓 **Master's in Data Analytics for Business & Society** — Ca' Foscari University, Venice
+
 Applied machine learning, deep learning, causal inference, and business intelligence.
 
 📈 **BSc in International Economics & Financial Markets** — University of Trieste
+
 Quantitative methods, financial econometrics, and statistical modeling.
 
 🧠 **Interests**: deep learning (CNNs, LSTMs), NLP, causal inference, mathematical optimization, and forecasting.
